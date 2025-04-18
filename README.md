@@ -43,6 +43,16 @@ If you have access to the raw dataset, you can:
 - Apply new filters/measures
 - Rebuild visuals for further analysis
 
+## 📂 Screenshots
+
+- ![Image - 1](images/image-1.png "1")
+- ![Image - 2](images/image-2.png "2")
+- ![Image - 3](images/image-3.png "3")
+- ![Image - 4](images/image-4.png "4")
+- ![Image - 5](images/image-5.png "5")
+
+
+
 ---
 
 If you found this project useful, consider giving it a ⭐ or sharing your thoughts.
